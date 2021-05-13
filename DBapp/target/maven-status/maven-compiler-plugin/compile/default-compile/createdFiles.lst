@@ -1,0 +1,15 @@
+dataAccess\concretes\StudentDaoManager.class
+externals\MyConnection.class
+dataAccess\abstracts\TeacherDao.class
+business\abstracts\StudentsService.class
+business\concretes\TeacherManager.class
+main\Main.class
+core\concretes\MyConnectionServiceAdapter.class
+business\abstracts\TeacherService.class
+core\abstracts\MyConnectionService.class
+entity\concretes\Teachers.class
+entity\abstracts\Entity.class
+dataAccess\abstracts\StudentDao.class
+entity\concretes\Students.class
+business\concretes\StudentManager.class
+dataAccess\concretes\TeacherDaoManager.class
